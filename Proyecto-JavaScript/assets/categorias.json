@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "nombre": "Blusas",
+      "imagen": "../images/Blusas/Blusanegra.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Pantalones",
+      "imagen":"../images/Pantalones/Pantalonesi.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "Vestidos",
+      "imagen": "../images/Vestidos/Vestidotricolor.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Bolsos",
+      "imagen": "../images/Bolsos/Bolsatrecolores.jpg"
+    }
+  ]

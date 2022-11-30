@@ -1,0 +1,116 @@
+[
+    {
+      "id": 1,
+      "nombre": "Blusa amarilla",
+      "tipo": "Blusas",
+      "precio": 100,
+      "imagen": "../images/Blusas/Blusaamarilla.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Blusa rosada",
+      "tipo": "Blusas",
+      "precio": 120,
+      "imagen": "../images/Blusas/Blusarosada.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Blusa negra",
+      "tipo": "Blusas",
+      "precio": 150,
+      "imagen": "../images/Blusas/Blusanegra.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Blusa con cuello elevado",
+      "tipo": "Blusas",
+      "precio": 200,
+      "imagen": "../images/Blusas/Blusaconcuelloelevado.jpg"
+    },
+
+    {
+      "id": 5,
+      "nombre": "Bolsa amarilla",
+      "tipo": "Bolsos",
+      "precio": 90,
+      "imagen": "../images/Bolsos/Bolsaamarilla.webp"
+    },
+    {
+      "id": 6,
+      "nombre": "Bolsa blanca",
+      "tipo": "Bolsos",
+      "precio": 70,
+      "imagen": "../images/Bolsos/Bolsablanca.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Bolsa con colgante gris",
+      "tipo": "Bolsos",
+      "precio": 80,
+      "imagen": "../images/Bolsos/Bolsacolgantegris.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Bolsa de tres colores",
+      "tipo": "Bolsos",
+      "precio": 95,
+      "imagen": "../images/Bolsos/Bolsatrecolores.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Jean apretado azul",
+      "tipo": "Pantalones",
+      "precio": 150,
+      "imagen": "../images/Pantalones/Pantalonajustado.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Pantalon deportivo",
+      "tipo": "Pantalones",
+      "precio": 200,
+      "imagen": "../images/Pantalones/pantalondeporte.webp"
+    },
+    {
+      "id": 11,
+      "nombre": "Pantalon verde",
+      "tipo": "Pantalones",
+      "precio": 100,
+      "imagen": "../images/Pantalones/Pantalonverde.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Jean azul",
+      "tipo": "Pantalones",
+      "precio": 60,
+      "imagen": "../images/Pantalones/Jeanz.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Vestido amarillo",
+      "tipo": "Vestidos",
+      "precio": 90,
+      "imagen": "../images/Vestidos/Vestidoamarillo.webp"
+    },
+    {
+      "id": 14,
+      "nombre": "Vestido azul",
+      "tipo": "Vestidos",
+      "precio": 85,
+      "imagen": "../images/Vestidos/Vestidoazul.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Vestido rosado",
+      "tipo": "Vestidos",
+      "precio": 76,
+      "imagen": "../images/Vestidos/Vestidorosa.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Vestido negro",
+      "tipo": "Vestidos",
+      "precio": 89,
+      "imagen": "../images/Vestidos/Vestidonegro.jpg"
+    }
+  ]
+  
